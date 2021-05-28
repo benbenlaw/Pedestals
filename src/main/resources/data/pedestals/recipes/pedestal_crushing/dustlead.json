@@ -4,7 +4,7 @@
     "tag": "forge:ores/lead"
   },
   "result": {
-    "item": "pedestals:dustlead",
+    "tag": "forge:dusts/lead",
     "count": 2
   }
 }
