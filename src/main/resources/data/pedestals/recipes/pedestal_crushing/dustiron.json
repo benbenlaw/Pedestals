@@ -4,7 +4,7 @@
     "tag": "forge:ores/iron"
   },
   "result": {
-    "item": "pedestals:dustiron",
+    "tag": "forge:dusts/iron",
     "count": 2
   }
 }
