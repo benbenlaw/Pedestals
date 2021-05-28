@@ -4,7 +4,7 @@
     "tag": "forge:ores/copper"
   },
   "result": {
-    "item": "pedestals:dustcopper",
+    "item": "forge:dusts/copper",
     "count": 2
   }
 }
