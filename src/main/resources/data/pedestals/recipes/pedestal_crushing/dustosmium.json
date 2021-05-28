@@ -4,7 +4,7 @@
     "tag": "forge:ores/osmium"
   },
   "result": {
-    "item": "pedestals:dustosmium",
+    "tag": "forge:dusts/osmium",
     "count": 2
   },
   "conditions": [
