@@ -4,7 +4,7 @@
     "tag": "forge:ores/uranium"
   },
   "result": {
-    "item": "pedestals:dusturanium",
+    "tag": "forge:dusts/uranium",
     "count": 2
   }
 }
