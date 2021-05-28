@@ -4,7 +4,7 @@
     "tag": "forge:ores/aluminum"
   },
   "result": {
-    "item": "pedestals:dustaluminum",
+    "tag": "forge:dusts/aluminum",
     "count": 2
   },
   "conditions": [
