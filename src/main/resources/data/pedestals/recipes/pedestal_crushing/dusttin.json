@@ -4,7 +4,7 @@
     "tag": "forge:ores/tin"
   },
   "result": {
-    "item": "pedestals:dusttin",
+    "tag": "forge:dusts/tin",
     "count": 2
   }
 }
