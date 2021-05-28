@@ -4,7 +4,7 @@
     "tag": "forge:ores/silver"
   },
   "result": {
-    "item": "pedestals:dustsilver",
+    "tag": "forge:dusts/silver",
     "count": 2
   }
 }
