@@ -4,7 +4,7 @@
     "item": "minecraft:nether_gold_ore"
   },
   "result": {
-    "item": "pedestals:dustgold",
+    "tag": "forge:dusts/gold",
     "count": 2
   }
 }
